@@ -85,7 +85,7 @@ WfiGHT 4ns net
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M124/PHOTOS/1968 - M124 - wbsps - module - m124 audio amp.jpg",
+ "file": "Modules/AMPLIFIERS/M124/MANUALS/1968 - M124 - wbsps - module - m124 audio amp.jpg",
  "sha256": "98d245ff0822838cd81dddc563e6c3367cbbf0c8590b62e8bafd4d94787b003f",
  "kind": "module",
  "models": [

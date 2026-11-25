@@ -79,7 +79,7 @@ C A T:
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M124/PHOTOS/1968 - M124 - wbsps - promo - m124 audio amp.jpg",
+ "file": "Modules/AMPLIFIERS/M124/MANUALS/1968 - M124 - wbsps - promo - m124 audio amp.jpg",
  "sha256": "7040dbc1124aef0f057fcc7a576d78ef514646f5802040ebe76dd88f36c1a3e9",
  "kind": "module",
  "models": [

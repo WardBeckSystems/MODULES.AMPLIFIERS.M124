@@ -36,7 +36,7 @@ Actively balanced output circuitry.
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M124/PHOTOS/1968 - M124 - wbsps - promo - m124 audio amp - front.jpg",
+ "file": "Modules/AMPLIFIERS/M124/MANUALS/1968 - M124 - wbsps - promo - m124 audio amp - front.jpg",
  "sha256": "03101100c77c50f4c3429ea1a9a65c31da9be3a6d59a2ecbbbec8753efbf481f",
  "kind": "module",
  "models": [

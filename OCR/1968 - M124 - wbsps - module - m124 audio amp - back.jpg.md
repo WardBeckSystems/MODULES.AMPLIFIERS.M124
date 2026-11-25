@@ -47,7 +47,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M124/PHOTOS/1968 - M124 - wbsps - module - m124 audio amp - back.jpg",
+ "file": "Modules/AMPLIFIERS/M124/MANUALS/1968 - M124 - wbsps - module - m124 audio amp - back.jpg",
  "sha256": "d972550680aa47b213c33a9d43bfbfa11670f1c23afb897323ca2471cd93c92e",
  "kind": "module",
  "models": [

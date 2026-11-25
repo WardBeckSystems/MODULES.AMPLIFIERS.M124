@@ -37,7 +37,7 @@ Actively balanced output circuitry.
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M124/PHOTOS/1968 - M124 - Ward Beck Systems 124 a copy.jpg",
+ "file": "Modules/AMPLIFIERS/M124/MANUALS/1968 - M124 - Ward Beck Systems 124 a copy.jpg",
  "sha256": "749d21f22b2562c63a3119068887164e7b80f7fa3b2010ccf5ea33e50d7ee236",
  "kind": "module",
  "models": [

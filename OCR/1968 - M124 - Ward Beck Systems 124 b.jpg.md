@@ -61,7 +61,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M124/PHOTOS/1968 - M124 - Ward Beck Systems 124 b.jpg",
+ "file": "Modules/AMPLIFIERS/M124/MANUALS/1968 - M124 - Ward Beck Systems 124 b.jpg",
  "sha256": "4b922578d488ba1ce888c5e04f9b49e4542d156945fb612c1aac7908a64623ec",
  "kind": "module",
  "models": [
