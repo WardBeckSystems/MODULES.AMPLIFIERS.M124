@@ -39,7 +39,7 @@ Wiki page: [M124](../../../../PAGES/M124.md)
 - **Title block:** (179, 8)–(353, 56) mm: FINISH · WARD · DRN C.5,OCONNELL · DATE Aug · 68 · M124 · CHKD · MATERIAL · SCALE · TOLS
 - **Wiring (first pass):** 100 connected wire groups from 608 runs; labelled ends: 94 mm → IINPUT 600n, Jsee; 47 mm → +48v; 26 mm → NOIE?, CUE, To, TRANSFORMER; 26 mm → INPUT i50n; 23 mm → CONNECTOR, WIRING, ISS_
 
-Every curve, box, word and wire group: [1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).json](../PINOUTS/1968%20-%20124-09-001%20-%20CONNECTOR%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20(traced).json) (the CAD file: `1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).json](../PINOUTS/1968%20-%20124-09-001%20-%20CONNECTOR%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1 (traced).dxf`).
 
 ## Full text
 

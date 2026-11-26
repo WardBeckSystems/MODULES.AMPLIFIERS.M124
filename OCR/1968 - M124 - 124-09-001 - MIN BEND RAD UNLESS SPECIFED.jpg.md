@@ -28,7 +28,7 @@ Wiki page: [M124](../../../../PAGES/M124.md)
 - **Title block:** (179, 8)–(353, 56) mm: FINISH · WARD · DRN C.5,OCONNELL · DATE Aug · 68 · M124 · CHKD · MATERIAL · SCALE · TOLS
 - **Wiring (first pass):** 104 connected wire groups from 539 runs; labelled ends: 92 mm → INPUT 600n, Jsee; 47 mm → +48v; 28 mm → DRN; 26 mm → NOIE?, CUE, To, TRANSFORMER; 23 mm → CONNECTOR
 
-Every curve, box, word and wire group: [1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIFED (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-09-001%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFED%20(traced).json) (the CAD file: `1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIFED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIFED (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-09-001%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFED%20%28traced%29.json) (the CAD file: `1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIFED (traced).dxf`).
 
 ## Full text
 

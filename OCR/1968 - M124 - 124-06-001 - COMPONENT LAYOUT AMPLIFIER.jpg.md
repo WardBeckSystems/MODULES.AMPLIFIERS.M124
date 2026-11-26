@@ -21,7 +21,7 @@ Wiki page: [M124](../../../../PAGES/M124.md)
 - **Words (OCR):** 46 in 43 lines: Cio · 06 · 05 · L2 · CI · LR33 · RZa · R34 · R30 · R29 · R3i · DEDE
 - **Title block:** (303, 28)–(398, 46) mm: WARD BECK · SYSTEMS
 
-Every curve, box, word and wire group: [1968 - M124 - 124-06-001 - COMPONENT LAYOUT AMPLIFIER (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-06-001%20-%20COMPONENT%20LAYOUT%20AMPLIFIER%20(traced).json) (the CAD file: `1968 - M124 - 124-06-001 - COMPONENT LAYOUT AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M124 - 124-06-001 - COMPONENT LAYOUT AMPLIFIER (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-06-001%20-%20COMPONENT%20LAYOUT%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1968 - M124 - 124-06-001 - COMPONENT LAYOUT AMPLIFIER (traced).dxf`).
 
 ## Full text
 

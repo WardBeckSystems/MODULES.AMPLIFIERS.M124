@@ -32,7 +32,7 @@ Wiki page: [M124](../../../../PAGES/M124.md)
 - **Closed boxes:** 14
 - **Wiring (first pass):** 72 connected wire groups from 542 runs
 
-Every curve, box, word and wire group: [1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL (traced).json](../PINOUTS/1968%20-%20124-09-001%20-%20CONNECTOR%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20(traced).json) (the CAD file: `1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL (traced).dxf`).
+Every curve, box, word and wire group: [1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL (traced).json](../PINOUTS/1968%20-%20124-09-001%20-%20CONNECTOR%20WIRING%20-%20DRN%20C.S.%20O%27CONNELL%20%28traced%29.json) (the CAD file: `1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL (traced).dxf`).
 
 ## Full text
 

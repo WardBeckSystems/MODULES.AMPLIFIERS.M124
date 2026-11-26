@@ -21,7 +21,7 @@ Wiki page: [M124](../../../../PAGES/M124.md)
 - **Closed boxes:** 12
 - **Wiring (first pass):** 50 connected wire groups from 405 runs
 
-Every curve, box, word and wire group: [1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIEIED (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-09-001%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIEIED%20(traced).json) (the CAD file: `1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIEIED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIEIED (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-09-001%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIEIED%20%28traced%29.json) (the CAD file: `1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIEIED (traced).dxf`).
 
 ## Full text
 

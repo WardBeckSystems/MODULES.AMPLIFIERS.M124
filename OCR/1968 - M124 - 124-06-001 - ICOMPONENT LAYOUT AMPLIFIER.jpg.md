@@ -19,7 +19,7 @@ Wiki page: [M124](../../../../PAGES/M124.md)
 - **Circles and arcs:** 20 circles, 0 arcs; largest r 9.9 @ (356.7, 190.9), r 9.8 @ (312.2, 191.5), r 9.8 @ (287.7, 191.2), r 9.5 @ (382.2, 191.8)
 - **Closed boxes:** 41
 
-Every curve, box, word and wire group: [1968 - M124 - 124-06-001 - ICOMPONENT LAYOUT AMPLIFIER (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-06-001%20-%20ICOMPONENT%20LAYOUT%20AMPLIFIER%20(traced).json) (the CAD file: `1968 - M124 - 124-06-001 - ICOMPONENT LAYOUT AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M124 - 124-06-001 - ICOMPONENT LAYOUT AMPLIFIER (traced).json](../SCHEMATICS/1968%20-%20M124%20-%20124-06-001%20-%20ICOMPONENT%20LAYOUT%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1968 - M124 - 124-06-001 - ICOMPONENT LAYOUT AMPLIFIER (traced).dxf`).
 
 ## Full text
 
