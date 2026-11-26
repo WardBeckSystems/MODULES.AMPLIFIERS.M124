@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M124/MANUALS/1968 - M124 - WBS_M124_Docs.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/71dfdc253b22784e-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "8"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [12.3, 3.7, 330.1, 419.3],
+ "outlines": {
+  "line": {"rings": 23, "straight": {"n": 124, "mm": 126.1}, "curved": {"n": 31, "mm": 42.5}},
+  "text": {"rings": 161, "straight": {"n": 1926, "mm": 2014.8}, "curved": {"n": 506, "mm": 742.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [134.9, 302.7, 201.2, 309.6], "text": "AUDIO AMPLIFIER"},
+   {"mm": [147.2, 287.1, 188.7, 294.8], "text": "MODEL ML24"},
+   {"mm": [120.3, 153.3, 223.5, 160.2], "text": "DESIGNED AND MANUFACTURED"},
+   {"mm": [157.0, 145.7, 167.1, 152.2], "text": "BY"},
+   {"mm": [120.3, 138.2, 159.1, 144.7], "text": "WARD-BECK"},
+   {"mm": [161.3, 137.7, 223.5, 144.7], "text": "SYSTEMS LIMITED"},
+   {"mm": [120.9, 130.6, 202.7, 137.6], "text": "841 PROGRESS AVENUE"},
+   {"mm": [120.7, 122.4, 204.5, 130.6], "text": "SCARBOROUGH , ONTARIO _"},
+   {"mm": [122.0, 107.5, 179.0, 115.7], "text": "(416) 438-6550"}
+  ]
+ },
+ "title_block": {
+  "mm": [113.7, 129.0, 197.7, 153.3],
+  "from": "title-block words (training set)",
+  "text": ["BY", "WARD-BECK", "SYSTEMS LIMITED", "841 PROGRESS AVENUE"]
+ },
+ "dots": [{"c": [204.6, 125.0], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 12–330 mm across, 4–419 mm up",
+  "- **Outlines:** line 23 rings, 124 straight (126 mm) / 31 curved (42.5 mm); text 161 rings, 1,926 straight (2,015 mm) / 506 curved (743 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 17 in 9 lines: AUDIO AMPLIFIER · MODEL ML24 · DESIGNED AND MANUFACTURED · BY · WARD-BECK · SYSTEMS LIMITED · 841 PROGRESS AVENUE · SCARBOROUGH , ONTARIO _ · (416) 438-6550",
+  "- **Title block:** (114, 129)–(198, 153) mm: BY · WARD-BECK · SYSTEMS LIMITED · 841 PROGRESS AVENUE"
+ ]
+}
