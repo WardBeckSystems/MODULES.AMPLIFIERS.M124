@@ -13,6 +13,31 @@ Ward-Beck Systems M124, 1968|1. Wiki page: [M124 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 93 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [13 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1968 - M124 - Ward Beck Systems 124 spec sheet.jpg](MANUALS/1968%20-%20M124%20-%20Ward%20Beck%20Systems%20124%20spec%20sheet.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Harmonic distortion** | Less than 0.25% from 3Ohz to 20Khz Less than 0.5% from 2Ohz to 20Khz (Measured at watt output level) The M124 is a high performance audio amplifier designed to offer optimum flexibility with minimum space occupancy for custom console applications in the broadcast and sound recording industries: The unit exhibits low input noise (-124 dbm) high output capabi&quot; lity (1 watt), uniform frequency response and exceptionally low total harmonic distortion In addition, the M124 printed circuit module measures Only 37 X 5h X 1 3/8 (component width) and includes a specially designed input transformer for multiple source impedance operation |
+| **Source impedance** | ohms balanced or unbalanced |
+| **Input impedance** | Greater than X 10 source impedance |
+| **Input level** | dbm maximum A unique active, balanced output circuit permits totally balanced systems design without the use of bulky output transformers and the attendent distortion introduced by such components at high output levels The low impedance presented at the amplifier output terminals permits the use of multiple resistive splitting networks with maximum isolation between output lines |
+| **Load impedance** | ohms or higher (nominal 600 ohms) |
+| **Output impedance** | Less than 1/10 load impedance |
+| **Output level** | +3Odbm, watt maximum Conditional strapping is accomplished on the card connector Thus, M124 modules maybe readily interchanged within system without regard to function An entire console system (monitor amplifiers excepted) maybe designed around the M124 plug-in card |
+| **Phasing** | The low terminal number of the input pair and the low terminal number of the output pair are in phase |
+| **Power requirements** | volts dc regulated_ 100 mA at watt output level |
+| **Ambient temperature** | 00 to 60Oc |
+| **Dimensions** | PC Card 37 X 5x X 1 3/8W in. |
+| **Weight** | Ibs net CAT. |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
