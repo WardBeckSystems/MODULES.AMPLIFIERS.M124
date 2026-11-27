@@ -3,116 +3,412 @@
  "connector": "RTO-144",
  "type": "M124 - Preamplifier",
  "series": "S400-LINE",
- "contacts": "15 contacts, single row",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": null,
+   "contacts": 15,
+   "rows": "1-15 single row",
+   "view": null,
+   "part": null
+  }
+ ],
  "verified": "124-09-001 iss. 1 (Aug 1968), M124 connector wiring",
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+   "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M124/M124.rto144.json",
+  "sheet_agrees": "13 of 13"
+ },
  "pins": [
   {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT (150/37.5 OHM STRAPPING)",
+   "kind": "in",
+   "port": "INPUT 150/37.5 OHM",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT 150 Ω +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT TRANSFORMER STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "STRAP 2-3",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT TRANSFORMER STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "STRAP 3-6",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
    "pin": "4",
-   "signal": "PREAMP A",
-   "kind": "audio",
-   "pair": "A1",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT HIGH (600 OHM: +)",
+   "kind": "in",
+   "port": "INPUT 600 OHM",
    "polarity": "+",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M124/M124.rto144.json",
-   "page": 1
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT 600 Ω +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "5",
-   "signal": "PREAMP A",
-   "kind": "audio",
-   "pair": "A1",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT LOW (600 OHM: -)",
+   "kind": "in",
+   "port": "INPUT 600 OHM",
    "polarity": "-",
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M124/M124.rto144.json",
-   "page": 1
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT 600 Ω -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT TRANSFORMER STRAP",
+   "kind": "strap",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "STRAP 3-6",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT 600 OHM",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT SHIELD",
+    "kind": "ground",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET RESISTOR",
+   "kind": "other",
+   "port": "GAIN SET",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET RESISTOR",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET RESISTOR",
+   "kind": "other",
+   "port": "GAIN SET",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET RESISTOR",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
    "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
    "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M124/M124.rto144.json",
-   "page": 1
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "13",
-   "signal": "PREAMP OUT",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "+",
+   "port": "OUTPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M124/M124.rto144.json",
-   "page": 1
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "14",
-   "signal": "PREAMP OUT",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "-",
+   "port": "OUTPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M124/M124.rto144.json",
-   "page": 1
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
    "signal": "+48 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M124/M124.rto144.json",
-   "page": 1
+   "read_from": [
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.pinout.json",
+    "M124/PINOUTS/1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   }
  ],
+ "ports": [
+  {
+   "name": "INPUT 600 OHM",
+   "dir": "in",
+   "pins": {
+    "+": "P1-4",
+    "-": "P1-5",
+    "shield": "P1-7"
+   }
+  },
+  {
+   "name": "INPUT 150/37.5 OHM",
+   "dir": "in",
+   "pins": {
+    "a": "P1-1",
+    "b": "P1-4",
+    "shield": "P1-7"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-13",
+    "b": "P1-14"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [
   {
-   "function": "600 Ω input",
-   "designation": "STRAP 3-6",
-   "from": "3",
-   "to": "6"
+   "name": "INPUT 600 OHM",
+   "pins": [
+    "P1-3",
+    "P1-6"
+   ],
+   "note": "Input on 4 (high) / 5 (low), shield 7"
   },
   {
-   "function": "150 Ω input",
-   "designation": "STRAP 2-3",
-   "from": "2",
-   "to": "3"
+   "name": "INPUT 150 OHM",
+   "pins": [
+    "P1-2",
+    "P1-3"
+   ],
+   "note": "Input on 1 / 4, shield 7"
   },
   {
-   "function": "37.5 Ω input",
-   "designation": "STRAP 1-2",
-   "from": "1",
-   "to": "2"
+   "name": "INPUT 37.5 OHM",
+   "pins": [
+    "P1-1",
+    "P1-2",
+    "P1-3",
+    "P1-4"
+   ],
+   "note": "Two straps, 1-2 and 3-4; input on 1 / 4, shield 7"
   },
   {
-   "function": "37.5 Ω input",
-   "designation": "STRAP 3-4",
-   "from": "3",
-   "to": "4"
+   "name": "GAIN SET RESISTOR",
+   "pins": [
+    "P1-10",
+    "P1-11"
+   ],
+   "note": "External gain set resistor across 10 and 11"
+  },
+  {
+   "name": "STRAP 3-6",
+   "pins": [
+    "3",
+    "6"
+   ],
+   "note": "600 Ω input",
+   "from": "RTO-144 sheet"
+  },
+  {
+   "name": "STRAP 2-3",
+   "pins": [
+    "2",
+    "3"
+   ],
+   "note": "150 Ω input",
+   "from": "RTO-144 sheet"
+  },
+  {
+   "name": "STRAP 1-2",
+   "pins": [
+    "1",
+    "2"
+   ],
+   "note": "37.5 Ω input",
+   "from": "RTO-144 sheet"
+  },
+  {
+   "name": "STRAP 3-4",
+   "pins": [
+    "3",
+    "4"
+   ],
+   "note": "37.5 Ω input",
+   "from": "RTO-144 sheet"
   }
  ],
- "power": [
+ "conflicts": [],
+ "to_check": [
   {
-   "rail": "VCC-AUDIO",
-   "style": null,
-   "volts": 48,
-   "max_a": null,
-   "supply": "15",
-   "ground": "12",
-   "link": null
+   "what": "polarity assumed",
+   "pin": null,
+   "detail": "2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT HIGH (600 OHM: +)) (M124: 1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.jpg)"
+  },
+  {
+   "what": "polarity assumed",
+   "pin": null,
+   "detail": "2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT HIGH (600 OHM: +)) (M124: 1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.jpg)"
   }
- ],
- "sources": [
-  "Engineering/RTO-144/M124/M124.rto144.json"
  ]
 }

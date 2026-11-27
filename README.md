@@ -87,18 +87,30 @@ Not on Google Drive yet: `1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONN
 
 ## RTO-144 pinout
 
-15 contacts, single row; checked against 124-09-001 iss. 1 (Aug 1968), M124 connector wiring. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 13 of 13 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- polarity assumed: 2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT HIGH (600 OHM: +)) (M124: 1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.jpg)
+- polarity assumed: 2 contacts given + / − that the drawing does not mark (e.g. P1-4 INPUT HIGH (600 OHM: +)) (M124: 1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.jpg)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 4 | PREAMP A | audio | A1 + | high |
-| 5 | PREAMP A | audio | A1 - | high |
+| 1 | INPUT (150/37.5 OHM STRAPPING) | in | INPUT 150/37.5 OHM | high |
+| 2 | INPUT TRANSFORMER STRAP | strap |  | high |
+| 3 | INPUT TRANSFORMER STRAP | strap |  | high |
+| 4 | INPUT HIGH (600 OHM: +) | in | INPUT 600 OHM + | high |
+| 5 | INPUT LOW (600 OHM: -) | in | INPUT 600 OHM - | high |
+| 6 | INPUT TRANSFORMER STRAP | strap |  | high |
+| 7 | INPUT SHIELD | shield | INPUT 600 OHM shield | high |
+| 10 | GAIN SET RESISTOR | other | GAIN SET | high |
+| 11 | GAIN SET RESISTOR | other | GAIN SET | high |
 | 12 | COMMON | ground |  | high |
-| 13 | PREAMP OUT | out | A3 + | high |
-| 14 | PREAMP OUT | out | A3 - | high |
+| 13 | OUTPUT | out | OUTPUT | high |
+| 14 | OUTPUT | out | OUTPUT | high |
 | 15 | +48 V | power |  | high |
 
-**Straps:** 600 Ω input: STRAP 3-6 · 150 Ω input: STRAP 2-3 · 37.5 Ω input: STRAP 1-2 · 37.5 Ω input: STRAP 3-4
+**Straps:** INPUT 600 OHM: P1-3 P1-6 · INPUT 150 OHM: P1-2 P1-3 · INPUT 37.5 OHM: P1-1 P1-2 P1-3 P1-4 · GAIN SET RESISTOR: P1-10 P1-11 · STRAP 3-6: 3 6 · STRAP 2-3: 2 3 · STRAP 1-2: 1 2 · STRAP 3-4: 3 4
 
 ## Manuals and documents
 
