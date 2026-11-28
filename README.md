@@ -4,13 +4,12 @@ Ward-Beck Systems M124, 1968|1. Wiki page: [M124 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 31 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 44 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 63 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 30 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 43 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 62 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 88 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -80,8 +79,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
-Not on Google Drive yet: `1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.jpg`, `1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL.jpg`, `M124 - RTO-144 Connections.pdf`
-
 ## RTO-144 pinout
 
 Read from 2 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 13 of 13 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
@@ -134,7 +131,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIEIED.kicad_sch](KICAD/1968%20-%20M124%20-%20124-09-001%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIEIED.kicad_sch)
 - [1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIFED.kicad_sch](KICAD/1968%20-%20M124%20-%20124-09-001%20-%20MIN%20BEND%20RAD%20UNLESS%20SPECIFED.kicad_sch)
 - [M124.kicad_sym](KICAD/M124.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
