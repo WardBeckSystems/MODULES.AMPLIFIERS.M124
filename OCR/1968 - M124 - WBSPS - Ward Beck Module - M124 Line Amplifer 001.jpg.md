@@ -1,5 +1,5 @@
 # 1968 - M124 - WBSPS - Ward Beck Module - M124 Line Amplifer 001.jpg
-Wiki page: [M124](../../../../PAGES/M124.md)
+Wiki page: [M124](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

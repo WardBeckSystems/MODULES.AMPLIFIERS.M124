@@ -1,5 +1,5 @@
 # 1968 - M124 - used as line input.png
-Wiki page: [M124](../../../../PAGES/M124.md)
+Wiki page: [M124](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

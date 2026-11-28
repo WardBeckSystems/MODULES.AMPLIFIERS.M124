@@ -1,5 +1,5 @@
 # 1968 - 124-09-001 - CONNECTOR WIRING - DRN C.S. O'CONNELL - ISS 1.jpg
-Wiki page: [M124](../../../../PAGES/M124.md)
+Wiki page: [M124](../)
 
 
 - **Year:** 1968 (title block date)

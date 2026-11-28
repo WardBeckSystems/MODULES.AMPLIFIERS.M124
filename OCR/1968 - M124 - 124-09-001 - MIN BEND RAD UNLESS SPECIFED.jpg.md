@@ -1,5 +1,5 @@
 # 1968 - M124 - 124-09-001 - MIN BEND RAD UNLESS SPECIFED.jpg
-Wiki page: [M124](../../../../PAGES/M124.md)
+Wiki page: [M124](../)
 
 
 - **Year:** 1968 (found in this file: "DATE Aug 68")

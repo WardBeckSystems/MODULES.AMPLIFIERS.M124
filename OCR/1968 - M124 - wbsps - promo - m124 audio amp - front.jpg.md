@@ -1,5 +1,5 @@
 # 1968 - M124 - wbsps - promo - m124 audio amp - front.jpg
-Wiki page: [M124](../../../../PAGES/M124.md)
+Wiki page: [M124](../)
 
 
 - **Year:** 1968 (module estimate (labelled))

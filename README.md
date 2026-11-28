@@ -1,6 +1,6 @@
 # M124 Line Amplifier · Amplifiers
 
-Ward-Beck Systems M124, 1968|1. Wiki page: [M124 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M124.html)
+Ward-Beck Systems M124, 1968|1. Wiki page: [M124 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M124-Line-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
